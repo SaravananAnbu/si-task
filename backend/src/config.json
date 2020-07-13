@@ -1,0 +1,26 @@
+{ 
+    "dev" : {
+        "port": 5000,
+        "bodyLimit": "100kb",
+        "corsHeaders": ["Link"],
+        "mysqldev": {
+            "host": "localhost",
+            "user": "root",
+            "password": "root",
+            "database": "test_db"
+        },
+        "SECRET_KEY": "gfsadfstrarsdtag"
+    },
+    "prod":{
+        "port": 5000,
+        "bodyLimit": "100kb",
+        "corsHeaders": ["Link"],
+        "mysqldev": {
+            "host": "localhost",
+            "user": "root",
+            "password": "root",
+            "database": "test_db"
+        },
+        "SECRET_KEY": "gfsadfstrarsdtag"
+    }
+}

@@ -1,0 +1,14 @@
+@import 'settings/variable';  //themes' colors
+
+@import './base/typography';          // base styles of h1-h6, p, span
+
+@import './component/sidebar';
+@import './component/topbar';
+@import './component/tabs';
+
+
+//objects...
+@import 'objects/layout.scss';
+
+//custom
+@import './component/custom';

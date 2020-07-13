@@ -14,10 +14,10 @@ import {
     PROJECT_OPERATION_TABLE_DATA
 } from './constant';
 
-class App extends Component {
+class Dashboard extends Component {
     render() {
         return (
-            <div className="container-fluid py-2">
+            <div className="container-fluid px-0 py-2">
                 <div className="row">
                     <div className="col-12">
                         <h5>PROJECT FINANCIALS</h5>
@@ -294,4 +294,4 @@ class App extends Component {
     }
 }
 
-export default App;
+export default Dashboard;
