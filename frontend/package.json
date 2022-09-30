@@ -24,7 +24,7 @@
         "react-router-redux": "^4.0.8",
         "react-smooth-scrollbar": "^8.0.6",
         "reactstrap": "^8.5.1",
-        "recharts": "^1.8.5",
+        "recharts": "^2.1.14",
         "redux": "^4.0.5",
         "redux-thunk": "^2.3.0",
         "shortid": "^2.2.15",
